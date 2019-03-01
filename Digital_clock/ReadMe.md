@@ -1,0 +1,1 @@
+This is a synthesizable code for digital clock which has been implemented in basys 3 fpga board. The constraints file and the code are present in the zip folder. Minutes and hours are displayed in the seven segment display and seconds has been indicated by blinking the leds once a second. 
